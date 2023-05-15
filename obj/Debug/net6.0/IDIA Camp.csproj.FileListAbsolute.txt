@@ -1,0 +1,15 @@
+D:\IDIA Camp\bin\Debug\net6.0\IDIA Camp.exe
+D:\IDIA Camp\bin\Debug\net6.0\IDIA Camp.deps.json
+D:\IDIA Camp\bin\Debug\net6.0\IDIA Camp.runtimeconfig.json
+D:\IDIA Camp\bin\Debug\net6.0\IDIA Camp.dll
+D:\IDIA Camp\bin\Debug\net6.0\IDIA Camp.pdb
+D:\IDIA Camp\obj\Debug\net6.0\IDIA Camp.csproj.AssemblyReference.cache
+D:\IDIA Camp\obj\Debug\net6.0\IDIA Camp.GeneratedMSBuildEditorConfig.editorconfig
+D:\IDIA Camp\obj\Debug\net6.0\IDIA Camp.AssemblyInfoInputs.cache
+D:\IDIA Camp\obj\Debug\net6.0\IDIA Camp.AssemblyInfo.cs
+D:\IDIA Camp\obj\Debug\net6.0\IDIA Camp.csproj.CoreCompileInputs.cache
+D:\IDIA Camp\obj\Debug\net6.0\IDIA Camp.dll
+D:\IDIA Camp\obj\Debug\net6.0\refint\IDIA Camp.dll
+D:\IDIA Camp\obj\Debug\net6.0\IDIA Camp.pdb
+D:\IDIA Camp\obj\Debug\net6.0\IDIA Camp.genruntimeconfig.cache
+D:\IDIA Camp\obj\Debug\net6.0\ref\IDIA Camp.dll
